@@ -1,10 +1,15 @@
 ---
 layout: post
-published: false
 title: >-
   Satu-satunya hal yang salah di Battle Through The Heavens: Three Year
   Agreement
+image: /images/btth_img/xiaoyanthumb-min.png
+metadescription: BTTH Three Year Agreement merupakan episode spesial dan menjadi seri terbaik dari semua season maupun episode lainnya. Namun ada beberapa hal cacat
+excerpt: BTTH Three Year Agreement merupakan episode spesial dan menjadi seri terbaik dari semua season maupun episode lainnya. Namun ada beberapa hal cacat
 ---
+
+![Xiao Yan](/images/btth_img/xiaoyan-min.jpg)
+
 **Through The Heavens: Three Year Agreement** (Dou Po Cangqiong: San Nian Zhi Yao) merupakan _donghua_ _special_ dan juga merupakan _sequel_ dari Through The Heavens season 4.
 
 Di akhir season 4 Xiao Yan tiba di alun-alun/arena pertarungan sekte Yun Lan (_Misty Cloud_) bersiap menantang Nalan Yanran sesuai janji yang mereka buat 3 tahun yang lalu.
@@ -72,6 +77,8 @@ Yun Shan pun langsung datang mencoba menyelamatkan Yun Leng saat Teratai Api Kem
 Sampai di sini mungkin sudah terlihat **hal yang salah** di Battle Through The Heavens: Three Year Agreement yang admin maksud.
 
 Hal tersebut adalah **kematian Yun Leng yang terlalu mudah**. Sangat tidak setimpal dengan kekejaman yang Ia lakukan terhadap keluarga Xiao terutama kepada ayah Xiao Yan.
+
+![Yun leng terbunuh](/images/btth_img/yunleng2-min.jpg)
 
 Kekejaman Yun Leng terhadap keluarga Xiao sampai disajikan selama dua episode. Sedangkan kematiannya sendiri sangat singkat yaitu hanya lewat satu hantaman jurus saja.
 
