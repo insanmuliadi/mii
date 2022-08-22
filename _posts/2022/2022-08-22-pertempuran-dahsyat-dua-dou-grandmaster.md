@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Pertempuran dahsyat dua Dou Grandmaster
 excerpt: >-
   Pertarungan antara Xiao Yan dan Na Lan Yanran untuk memenuhi janji 3 tahun
