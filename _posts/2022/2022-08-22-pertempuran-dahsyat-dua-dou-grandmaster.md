@@ -8,6 +8,7 @@ excerpt: >-
 description: >-
   Pertarungan antara Xiao Yan dan Na Lan Yanran untuk memenuhi janji 3 tahun
   yang mereka buat merupakan pertarungan antara dua Dou Grandmaster yang dahsyat
+image: /images/btth_img/xiaoyanvsyanranthumb-min.png
 ---
 Pertarungan antara Xiao Yan dan Na Lan Yanran untuk memenuhi janji 3 tahun yang mereka buat merupakan pertarungan antara dua Dou Grandmaster yang dahsyat.
 
