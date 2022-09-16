@@ -79,12 +79,14 @@ layout: base
       </ul>
 <!--{% include related.html %}-->
 {% if page.id and page.related %}
+      {% unless page.categories == empty %}
 <div class="related-post">
 <h2>Postingan Terkait</h2>
 <ul class="related-wrapper">
     {% include related.html %}
   </ul>
   </div>
+      {% endunless %}
 {% endif %}
       {% if page.comments %}
         <div class="disqus-comments">
