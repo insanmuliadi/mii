@@ -1,6 +1,6 @@
 {% assign showRelThumb == true %}
 {% if site.showRelThumb %}
-<li class="related-img"><a href="{{ post.url | relative_url }}"><div class="relThumb"><img alt="{{ post.title }}" src="{{ post.image }}"/></div><div class="relTitle">{{ post.title }}</div></a></li>
+<li class="related-img"><a href="{{ post.url | relative_url }}"><div class="relThumb"><img class="lazyload" alt="{{ post.title }}" data-src="{{ post.image }}"/></div><div class="relTitle">{{ post.title }}</div></a></li>
 {% else %}
 <li class="related-list"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
 {% endif %}
