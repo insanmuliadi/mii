@@ -124,8 +124,8 @@ title-separator: "-"
 # type by tags categories random
 # src https://www.jsware.io/jekyll-related-posts/about.html
 related_limit: 8
-related_by: category
-#related_categories:
+related_by: categories
+related_categories:
 
 collections:
   kontributor:
