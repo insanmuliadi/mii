@@ -1,1 +1,6 @@
+{% assign showRelThumb == false %}
+{% if showRelThumb != true %}
 <li class="related-list"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+{% else %}
+<li class="related-img"><a href="{{ post.url | relative_url }}"><div class="relThumb"><img alt="{{ post.title }}" src="{{ post.image }}"/></div><div class="relTitle">{{ post.title }}</div></a></li>
+{% endif %}
