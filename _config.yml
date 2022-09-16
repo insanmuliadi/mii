@@ -123,6 +123,7 @@ title-separator: "-"
 # Related Post Setting
 # type by tags categories random
 # src https://www.jsware.io/jekyll-related-posts/about.html
+showRelThumb: true
 related_limit: 8
 related_by: categories
 related_categories:
