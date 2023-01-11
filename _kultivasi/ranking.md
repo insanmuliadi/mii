@@ -1,5 +1,5 @@
 ---
-layout: kultivasi
+layout: post
 title: Ranking Kultivasi
 ---
 1. Dou Zhi - Fight Disciple
