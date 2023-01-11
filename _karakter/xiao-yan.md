@@ -3,7 +3,7 @@ layout: page
 title: Xiao Yan
 ---
 
-Xiao Yan adalah protagonis utama Battle Through the Heavens, dan bereinkarnasi dari Bumi, tetapi penulis tidak memberikan informasi tentang kehidupannya di Bumi. 
+Xiao Yan adalah protagonis utama Battle Through the Heavens ka BTTH, dan bereinkarnasi dari Bumi, tetapi penulis tidak memberikan informasi tentang kehidupannya di Bumi. 
 
 Dia pernah dipuji sebagai seorang jenius sebagai seorang anak tetapi disebut sampah sejak Yao Lao tinggal di cincin yang diberikan ibunya kepadanya sebelum dia meninggal. Dia kemudian memulai perjalanan untuk menjadi lebih kuat. 
 
