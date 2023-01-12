@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Xiao Yan
+description: Berikut ini profil Xiao Yan tokoh utama pada serial animasi Battle Through The Heavens
 ---
 
 Xiao Yan adalah protagonis utama Battle Through the Heavens ka BTTH, dan bereinkarnasi dari Bumi, tetapi penulis tidak memberikan informasi tentang kehidupannya di Bumi. 
