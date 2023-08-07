@@ -4,6 +4,7 @@ title: Xiao Yan
 description: Berikut ini profil Xiao Yan tokoh utama pada serial animasi Battle Through The Heavens
 ---
 
+<img alt="Xiao Yan" src="https://res.cloudinary.com/dys660vhj/image/upload/v1691390818/btth/xiao-yan_hdt2dl.webp" width="1280" height="720"/>
 Xiao Yan adalah protagonis utama Battle Through the Heavens ka BTTH, dan bereinkarnasi dari Bumi, tetapi penulis tidak memberikan informasi tentang kehidupannya di Bumi. 
 
 Dia pernah dipuji sebagai seorang jenius sebagai seorang anak tetapi disebut sampah sejak Yao Lao tinggal di cincin yang diberikan ibunya kepadanya sebelum dia meninggal. Dia kemudian memulai perjalanan untuk menjadi lebih kuat. 
