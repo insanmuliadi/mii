@@ -235,7 +235,7 @@ prose:
 
 plugins:
   - jekyll-paginate
-	- jekyll-toc
+  - jekyll-toc
 	
 # TOC Settings
 toc:
