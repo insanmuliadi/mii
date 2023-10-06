@@ -21,7 +21,7 @@ toc: true
 
 Di akhir season 4 Xiao Yan tiba di alun-alun/arena pertarungan sekte Yun Lan (_Misty Cloud_) bersiap menantang Nalan Yanran sesuai janji yang mereka buat 3 tahun yang lalu.
 
-[BTTH: Three Year Agreement](https://btth.netlify.app/battle-through-the-heavens-three-year-agreement) merupakan yang terbaik dari semua seri BTTH. Di awal episode saja kita sudah disajikan pertarungan yang luar biasa antara Nalan Yanran.
+[BTTH: Three Year Agreement](/battle-through-the-heavens-three-year-agreement) merupakan yang terbaik dari semua seri BTTH. Di awal episode saja kita sudah disajikan pertarungan yang luar biasa antara Nalan Yanran.
 
 Selain itu muncul banyak momen lain yang sangat seru seperti saat Xiao tdak berhenti mengejutkan semua orang termasuk Nalan Yanran akan kekuatannya.
 
