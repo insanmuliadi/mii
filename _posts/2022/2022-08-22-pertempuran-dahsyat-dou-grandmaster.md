@@ -2,7 +2,7 @@
 layout: post
 date: 2022-08-22
 title: Pertempuran dahsyat dua Dou Grandmaster
-tag: xiao yan, nalan yanran
+tag: xiao yan
 excerpt: >-
   Pertarungan antara Xiao Yan dan Na Lan Yanran untuk memenuhi janji 3 tahun
   yang mereka buat merupakan pertarungan antara dua Dou Grandmaster yang dahsyat
