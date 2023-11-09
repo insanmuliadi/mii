@@ -24,6 +24,22 @@ Tentu saja bukan hal yang mengejutkan jika Yanran mampu mencapai level Dou Grand
 
 Di pihak lain Xiao Yan juga ternyata sudah mencapai level Dou Grandmaster, dan ini adalah level alaminya alias tanpa pinjaman kekuatan dari Yao Lao.
 
+{:toc}
+
+## Asal-Muasal Perjanjian 3 Tahun
+
+Bagi yang belum tahu asal-muasal perseteruan Xiao Yan dan Yanran dan terciptanya perjanjian 3 tahun akan kami jelaskan kembali di sini. Jadi, antara kakek Xiao Yan dan kakek Yanran yang berteman baik, keduanya sepakat untuk menjodohkan cucu mereka.
+
+Xiao Yan tumbuh menjadi anak jenius, namun kemudian Ia mengalamai masalah dalam kultivasinya. Akhirnya Ia tidak mampu memadatkan Dou Qi sama sekali dan menjadi "sampah". Di pihak lain, Yanran yang masih kecil sudah masuk dalam sekte Yunlan bahkan menjadi murid langsung ketua sekte dan bahkan menjadi ketua sekte muda.
+
+Status dan kemampuan yang berbanding terbalik dengan Xiao Yan membuat Yanran merasa bahwa Xiao Yan tidak pantas untuknya. Iapun kemudian datang ke keluarga Xiao dengan membawa orang sekte Yunlan untuk meminta ayah Xiao Yan membatalkan pertunangannya.
+
+_Note: Hanya dengan persetujuan kedua keluarga perjanjian pertunangan bisa dilakukan_
+
+Hal ini adalah penghinaan untuk keluarga Xiao. Xiao Yan yang tidak ingin keluarganya dipermalukan akhirnya mengeluarkan surat pembatalan pertunangan. Surat pembatalan yang dilakukan pihak lelaki sama saja dengan surat perceraian dan hal itu membuat Yanran tersinggung. Keduanya pun setuju untuk bertarungan 3 tahun kemudian.
+
+## Pertarungan Dahsyat 2 Dou Grandmaster
+
 Baik Xiao Yan maupun Yanran sama-sama memiliki kultivasi Dou Grandmaster tingkat dua. Dari segi kultivasi mungkin sama namun dari kemampuan bertarung tentu akan berbeda setiap orangnya.
 
 Terbukti ketika keduanya bertemu di atas arena. Xiao Yan memiliki keterampilan bertarung yang lebih baik dari Yanran. Selain itu, api surgawi yang dipadatkannya juga menghasilkan energi yang jauh lebih besar.
