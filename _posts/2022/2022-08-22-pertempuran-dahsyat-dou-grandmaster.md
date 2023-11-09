@@ -53,3 +53,7 @@ Rasa cintanya tumbuh sebelum pertempuran, namun saat itu yang Yanran kenal ada Y
 Mengetahui Yan Xiao ternyata adalah Xiao Yan sudah pasti membuat Yanran terkejut dan kecewa. Pemuda yang Ia sukai ternyata adalah mantan calon suaminya yang Ia tolak dulu.
 
 Namun perasaan cintanya kini tumbuh kepada Xiao Yan meskipun Xiao Yan tidak memiliki perasaan apapun lagi kepadanya. Iya, cinta Yanran bertepuk sebelah tangan.
+
+## Akhir Dari Perjanjian, Hubungan Keduanya Terputus Sepenuhnya
+
+Perjanjian 3 tahun berakhir dengan kemenangan telak Xiao Yan. Iapun lega bahwa beban yang Ia bawa selama tiga tahun akhirnya bisa Ia selesaikan dengan damai.
