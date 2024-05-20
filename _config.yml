@@ -23,8 +23,8 @@ description: Mii | Sharing useful information
 
 # List of links in the navigation bar
 navbar-links:
-  Karakter: "{{ site.url }}/karakter/"
-  Kategori: "{{ site.url }}/categories/"
+  Karakter: "https://mii.my.id/karakter/"
+  Kategori: "https://mii.my.id/categories/"
 
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
