@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2022-08-22
+date: 'Mon Aug 22 2022 08:00:00 GMT+0800 (Central Indonesia Time)'
 title: Pertempuran dahsyat dua Dou Grandmaster
-tag: [xiao_yan, api]
+tag:
+  - xiao_yan
+  - api
 excerpt: >-
   Pertarungan antara Xiao Yan dan Na Lan Yanran untuk memenuhi janji 3 tahun
   yang mereka buat merupakan pertarungan antara dua Dou Grandmaster yang dahsyat
@@ -10,6 +12,7 @@ description: >-
   Pertarungan antara Xiao Yan dan Na Lan Yanran untuk memenuhi janji 3 tahun
   yang mereka buat merupakan pertarungan antara dua Dou Grandmaster yang dahsyat
 image: /images/btth_img/xiaoyanvsyanranthumb-min.jpg
+published: false
 ---
 
 <img alt="Xiao Yan VS Yanran" src="/images/btth_img/xiaoyanvsyanran-min.jpg" width="1000" height="562"/>
